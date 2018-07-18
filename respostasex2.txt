@@ -1,0 +1,3 @@
+	A propriedade display controla o layout.
+	A inline-block transforma essa propriedade em um elemento de linha.
+	O valor padrão mantem sua forma de elemento de nível de bloco. 
